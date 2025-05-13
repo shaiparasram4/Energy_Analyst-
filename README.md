@@ -1,0 +1,3 @@
+Description of the project: This Python script analyzes household electric power consumption data from a dataset covering nearly four years with one-minute sampling. 
+It performs exploratory data analysis (EDA) using Pandas and Matplotlib to examine energy usage patterns, focusing on global active power and sub-metering values. 
+The code cleans the dataset by handling missing values, converts time-series data for analysis, and visualizes trends through plots like daily and monthly energy consumption. It also applies statistical methods to identify correlations and anomalies, supporting regression and clustering tasks for energy optimization insights.
